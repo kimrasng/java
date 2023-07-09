@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/EX26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY02/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023/07/09" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +146,7 @@
       <updated>1688862907595</updated>
       <workItem from="1688862908620" duration="17000" />
       <workItem from="1688862946811" duration="1847000" />
-      <workItem from="1688864817147" duration="13598000" />
+      <workItem from="1688864817147" duration="13618000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -208,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688864455320</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2023/07/09">
+      <option name="closed" value="true" />
+      <created>1688878528275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688878528275</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2023/07/09">
+      <option name="closed" value="true" />
+      <created>1688878532745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688878532745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
