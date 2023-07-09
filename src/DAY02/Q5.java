@@ -28,7 +28,6 @@ public class Q5 {
         int y = first << 4;
 
         System.out.println(y);
-a
 
 
 
