@@ -10,6 +10,5 @@ public class EX05 {
 
         System.out.println("Hello" + "Java");
         System.out.println("Hello" + 100);
-a
     }
 }
