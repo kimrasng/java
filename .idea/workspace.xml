@@ -4,8 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY02/EX05.java" afterDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/EX26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY02/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +48,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -46,17 +72,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EX05">
-    <configuration name="DAY02.EX02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.EX02" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DAY02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q5">
+    <configuration name="EX21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY02.EX21" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY02.EX03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.EX03" />
+    <configuration name="EX22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY02.EX22" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DAY02.EX04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.EX04" />
+    <configuration name="EX23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY02.EX23" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.EX01" />
+    <configuration name="EX26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY02.EX26" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.EX05" />
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY02.Q5" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX05" />
-        <item itemvalue="Application.DAY02.EX04" />
-        <item itemvalue="Application.DAY02.EX03" />
-        <item itemvalue="Application.DAY02.EX02" />
-        <item itemvalue="Application.EX01" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.EX26" />
+        <item itemvalue="Application.EX23" />
+        <item itemvalue="Application.EX22" />
+        <item itemvalue="Application.EX21" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +173,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688862907595</updated>
       <workItem from="1688862908620" duration="17000" />
-      <workItem from="1688862946811" duration="1487000" />
+      <workItem from="1688862946811" duration="1847000" />
+      <workItem from="1688864817147" duration="13598000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -165,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688864402869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testa">
+      <option name="closed" value="true" />
+      <created>1688864455320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688864455320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +217,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wq" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="testa" />
+    <MESSAGE value="2023/07/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/09" />
   </component>
 </project>
