@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Q5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        // 1번
         String ID, PS;
 
 
@@ -17,7 +18,9 @@ public class Q5 {
         System.out.println("ID : " + ID);
         System.out.println("PS : " + PS);
 
-//  -------------------------------------------------
+        // -------------------------------------------------
+        //  2번
+
 
         int first;
 
@@ -30,7 +33,12 @@ public class Q5 {
         System.out.println(y);
 
 
+        // -------------------------------------------------
+        //  4번
+        String in, h, m;
 
+        System.out.print("진입시간 입력");
+        in = scanner.next();
 
 
     }
