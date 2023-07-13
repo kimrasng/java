@@ -4,49 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="2023/07/12">
-      <change afterPath="$PROJECT_DIR$/src/self/ch1/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/self/ch2/ByteOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/self/ch2/CharToCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/self/ch2/CodeTochar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/self/ch2/SpecialChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/self/ch2/StringTest.java" afterDir="false" />
+    <list default="true" id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="2023/07/13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +36,12 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2SKUnYIz2Akx48U6mXqmXnEfaxW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -222,17 +186,43 @@
       <option name="project" value="LOCAL" />
       <updated>1689172188422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2023/07/13">
+      <created>1689254612752</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689254612753</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2023/07/13">
+      <created>1689255544480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689255544483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="123" />
     <MESSAGE value="2023/07/10" />
     <MESSAGE value="2023/07/12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/12" />
+    <MESSAGE value="2023/07/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/13" />
   </component>
 </project>

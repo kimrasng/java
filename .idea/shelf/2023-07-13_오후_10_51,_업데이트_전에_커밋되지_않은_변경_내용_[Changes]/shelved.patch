@@ -1,0 +1,116 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"30b6a0c5-fdbe-4985-b85a-a535ee553fe7\" name=\"Changes\" comment=\"2023/07/12\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch1/Hello.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch2/ByteOverflow.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch2/CharToCode.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch2/CodeTochar.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch2/SpecialChar.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/self/ch2/StringTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY01/EX01.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY01/EX02.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY01/EX03.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY01/EX04.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY01/EX05.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX01.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX02.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX03.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX04.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX05.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX06.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX07.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX08.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX09.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX10.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX11.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX12.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX13.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX14.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX15.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX16.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX17.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX18.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX19.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX20.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX21.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX22.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX23.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX24.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX25.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/EX26.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/Q2.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/Q3.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/Q4.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/DAY02/Q5.java\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"b7c18b48-4eb4-4dc6-8fbf-458785a24d43\" />\r\n        <option name=\"url\" value=\"https://github.com/kimrasng/java\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2SKUnYIz2Akx48U6mXqmXnEfaxW\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"jdk.selected.JAVA_MODULE\": \"1.8\",\r\n    \"last_opened_file_path\": \"C:/dev/java\",\r\n    \"project.structure.last.edited\": \"프로젝트\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\r\n      <recent name=\"self\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"애플리케이션.StringTest\">\r\n    <configuration name=\"CharToCode\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"self.ch2.CharToCode\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"self.ch2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"CodeTochar\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"self.ch2.CodeTochar\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"self.ch2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Hello\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"self.ch1.Hello\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"self.ch1.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpecialChar\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"self.ch2.SpecialChar\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"self.ch2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"StringTest\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"self.ch2.StringTest\" />\r\n      <module name=\"untitled\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"self.ch2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"애플리케이션.StringTest\" />\r\n        <item itemvalue=\"애플리케이션.SpecialChar\" />\r\n        <item itemvalue=\"애플리케이션.CodeTochar\" />\r\n        <item itemvalue=\"애플리케이션.CharToCode\" />\r\n        <item itemvalue=\"애플리케이션.Hello\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"30b6a0c5-fdbe-4985-b85a-a535ee553fe7\" name=\"Changes\" comment=\"\" />\r\n      <created>1688894936125</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1688894936125</updated>\r\n      <workItem from=\"1689172028339\" duration=\"214000\" />\r\n      <workItem from=\"1689172291805\" duration=\"187000\" />\r\n      <workItem from=\"1689172525520\" duration=\"36000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test\">\r\n      <created>1688895979759</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688895979760</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"123\">\r\n      <created>1688896059214</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688896059214</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"2023/07/10\">\r\n      <created>1688992542745</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688992542746</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"2023/07/12\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1689172188422</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1689172188422</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test\" />\r\n    <MESSAGE value=\"123\" />\r\n    <MESSAGE value=\"2023/07/10\" />\r\n    <MESSAGE value=\"2023/07/12\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"2023/07/12\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0bd99af70f65569069c23132b55b8e8b4660ac64)
++++ b/.idea/workspace.xml	(date 1689256307049)
+@@ -4,49 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="2023/07/12">
+-      <change afterPath="$PROJECT_DIR$/src/self/ch1/Hello.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/self/ch2/ByteOverflow.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/self/ch2/CharToCode.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/self/ch2/CodeTochar.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/self/ch2/SpecialChar.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/self/ch2/StringTest.java" afterDir="false" />
++    <list default="true" id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="2023/07/13">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX01.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX02.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX03.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX04.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY01/EX05.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX01.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX02.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX03.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX04.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX05.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX06.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX07.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX08.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX09.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX10.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX11.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX12.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX13.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX14.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX15.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX16.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX17.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX18.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX19.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX20.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX21.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX22.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX23.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX24.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX25.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/EX26.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q2.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q3.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q4.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/DAY02/Q5.java" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -78,6 +37,7 @@
+   </component>
+   <component name="ProjectId" id="2SKUnYIz2Akx48U6mXqmXnEfaxW" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+@@ -222,17 +182,43 @@
+       <option name="project" value="LOCAL" />
+       <updated>1689172188422</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="2023/07/13">
++      <created>1689254612752</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1689254612753</updated>
++    </task>
++    <task id="LOCAL-00006" summary="2023/07/13">
++      <created>1689255544480</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1689255544483</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test" />
+     <MESSAGE value="123" />
+     <MESSAGE value="2023/07/10" />
+     <MESSAGE value="2023/07/12" />
+-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/12" />
++    <MESSAGE value="2023/07/13" />
++    <option name="LAST_COMMIT_MESSAGE" value="2023/07/13" />
+   </component>
+ </project>
+\ No newline at end of file
