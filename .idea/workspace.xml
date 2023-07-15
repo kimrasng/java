@@ -4,9 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="2023/07/13">
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023/07/15">
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY03/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +42,20 @@
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="b7c18b48-4eb4-4dc6-8fbf-458785a24d43" />
-        <option name="url" value="https://github.com/kimrasng/java" />
+        <option name="accountId" value="3a9a3fcc-9499-46ae-9c2b-496323dcab96" />
+        <option name="url" value="https://github.com/kimrasng/untitled.git" />
       </UrlAndAccount>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2SKUnYIz2Akx48U6mXqmXnEfaxW" />
+  <component name="ProjectId" id="2SJRsiaVFjHPjiPncZrvMsSq1mM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,34 +64,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/dev/java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="self" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DAY02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StringTest">
-    <configuration name="CharToCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self.ch2.CharToCode" />
+  <component name="RunManager" selected="Application.Q4">
+    <configuration name="EX10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY03.EX10" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self.ch2.*" />
+          <option name="PATTERN" value="DAY03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeTochar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self.ch2.CodeTochar" />
+    <configuration name="EX11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY03.EX11" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self.ch2.*" />
+          <option name="PATTERN" value="DAY03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self.ch1.Hello" />
+    <configuration name="EX12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY03.EX12" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self.ch1.*" />
+          <option name="PATTERN" value="DAY03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self.ch2.SpecialChar" />
+    <configuration name="EX13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY03.EX13" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self.ch2.*" />
+          <option name="PATTERN" value="DAY03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="self.ch2.StringTest" />
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY03.Q4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="self.ch2.*" />
+          <option name="PATTERN" value="DAY03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,68 +152,74 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.StringTest" />
-        <item itemvalue="애플리케이션.SpecialChar" />
-        <item itemvalue="애플리케이션.CodeTochar" />
-        <item itemvalue="애플리케이션.CharToCode" />
-        <item itemvalue="애플리케이션.Hello" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.EX12" />
+        <item itemvalue="Application.EX13" />
+        <item itemvalue="Application.EX11" />
+        <item itemvalue="Application.EX10" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30b6a0c5-fdbe-4985-b85a-a535ee553fe7" name="Changes" comment="" />
-      <created>1688894936125</created>
+      <changelist id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="" />
+      <created>1688862907595</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1688894936125</updated>
-      <workItem from="1689172028339" duration="214000" />
-      <workItem from="1689172291805" duration="187000" />
-      <workItem from="1689172525520" duration="36000" />
+      <updated>1688862907595</updated>
+      <workItem from="1688862908620" duration="17000" />
+      <workItem from="1688862946811" duration="1847000" />
+      <workItem from="1688864817147" duration="13618000" />
+      <workItem from="1689378901467" duration="17565000" />
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1688895979759</created>
+    <task id="LOCAL-00001" summary="wq">
+      <option name="closed" value="true" />
+      <created>1688863734406</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1688895979760</updated>
+      <updated>1688863734406</updated>
     </task>
-    <task id="LOCAL-00002" summary="123">
-      <created>1688896059214</created>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1688864139868</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1688896059214</updated>
+      <updated>1688864139868</updated>
     </task>
-    <task id="LOCAL-00003" summary="2023/07/10">
-      <created>1688992542745</created>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1688864402869</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1688992542746</updated>
+      <updated>1688864402869</updated>
     </task>
-    <task id="LOCAL-00004" summary="2023/07/12">
+    <task id="LOCAL-00004" summary="testa">
       <option name="closed" value="true" />
-      <created>1689172188422</created>
+      <created>1688864455320</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1689172188422</updated>
+      <updated>1688864455320</updated>
     </task>
-    <task id="LOCAL-00005" summary="2023/07/13">
-      <created>1689254612752</created>
+    <task id="LOCAL-00005" summary="2023/07/09">
+      <option name="closed" value="true" />
+      <created>1688878528275</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1689254612753</updated>
+      <updated>1688878528275</updated>
     </task>
-    <task id="LOCAL-00006" summary="2023/07/13">
-      <created>1689255544480</created>
+    <task id="LOCAL-00006" summary="2023/07/09">
+      <option name="closed" value="true" />
+      <created>1688878532745</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1689255544483</updated>
+      <updated>1688878532745</updated>
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
@@ -206,23 +227,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="wq" />
     <MESSAGE value="test" />
-    <MESSAGE value="123" />
-    <MESSAGE value="2023/07/10" />
-    <MESSAGE value="2023/07/12" />
-    <MESSAGE value="2023/07/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/13" />
+    <MESSAGE value="testa" />
+    <MESSAGE value="2023/07/09" />
+    <MESSAGE value="2023/07/15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/15" />
   </component>
 </project>
