@@ -1,4 +1,4 @@
-package DAY01;	// 패키지 선언부
+package academy.DAY01;	// 패키지 선언부
 
 public class EX01 {	// 클래스 선언부 (반드시 소스파일 명과 동일해야함)
 

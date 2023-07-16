@@ -1,4 +1,4 @@
-package DAY01;
+package academy.DAY01;
 
 public class EX05 {
 

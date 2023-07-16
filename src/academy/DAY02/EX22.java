@@ -1,7 +1,7 @@
-package DAY02;
+package academy.DAY02;
 
 public class EX22 {
-    public static void main(String[] atgs) {
+    public static void main(String[] args) {
         // 논리연산자
         System.out.println("False || False: " + (false || false));
         System.out.println("False || True: " + (false || true));

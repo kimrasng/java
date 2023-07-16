@@ -1,4 +1,4 @@
-package DAY02;
+package academy.DAY02;
 
 public class EX20 {
     public static void main(String[] args) {

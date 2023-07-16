@@ -1,4 +1,4 @@
-package DAY02;
+package academy.DAY02;
 
 import java.util.Scanner;
 public class EX18 {
