@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023/07/15">
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/EX13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" afterDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023/07/16(1)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY03/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY03/Q4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +154,8 @@
       <workItem from="1688862908620" duration="17000" />
       <workItem from="1688862946811" duration="1847000" />
       <workItem from="1688864817147" duration="13618000" />
-      <workItem from="1689378901467" duration="17565000" />
+      <workItem from="1689378901467" duration="18313000" />
+      <workItem from="1689465529232" duration="771000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -221,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688878532745</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023/07/15">
+      <option name="closed" value="true" />
+      <created>1689396640102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689396640102</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2023/07/15">
+      <option name="closed" value="true" />
+      <created>1689396687673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689396687673</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +233,7 @@
     <MESSAGE value="testa" />
     <MESSAGE value="2023/07/09" />
     <MESSAGE value="2023/07/15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/15" />
+    <MESSAGE value="2023/07/16(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/07/16(1)" />
   </component>
 </project>
