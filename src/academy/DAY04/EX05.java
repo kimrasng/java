@@ -1,22 +1,22 @@
 package academy.DAY04;
 
-import java.util.Scanner;
-
 public class EX05 {
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
-        int kor;
+        int su = 0, sum = 0;
+        do {
+            su++;
+            sum += su;
+        }while (su <= -1);
+        System.out.println("do~while sum: " + sum);
 
-        while (true) {
-            System.out.println("국어 점수 입력: ");
-            kor = input.nextInt();
-            if (kor > 100 || kor < 0)
-                System.out.println("0~100점 사이 값을 입력하세요.");
-            else {
-                System.out.println("국어 점수: " + kor);
-                break;
-            }
+        su = 0; sum = 0;
+        System.out.println("do~while sum: " + sum);
+
+        su = 0; sum = 0;
+        while (su <= -1) {
+            su++;
+            sum += su;
         }
-        input.close();
+        System.out.println("while sum: " + sum);
     }
 }

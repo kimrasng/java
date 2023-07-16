@@ -4,80 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023/07/16">
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX05.java" afterDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="package change">
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/Q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/EX13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/Q1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/Q2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/untitled/DAY03/Q3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/EX13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/EX13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY03/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY03/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY01/EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY01/EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY01/EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY01/EX02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY01/EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY01/EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY01/EX04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY01/EX04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY01/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY01/EX05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/EX26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/EX26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY02/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY02/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/DAY04/EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY04/EX03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/DAY04/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY04/EX05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,21 +91,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.EX22">
-    <configuration name="EX01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY01.EX01" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX02" />
+    <configuration name="EX16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX16" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +104,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX03" />
+    <configuration name="EX19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX19" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX21" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="EX22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY02.EX22" />
+      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX22" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY02.*" />
+          <option name="PATTERN" value="academy.DAY04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY03.Q4" />
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY04.Q2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY03.*" />
+          <option name="PATTERN" value="academy.DAY04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,10 +159,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EX22" />
-        <item itemvalue="Application.EX03" />
-        <item itemvalue="Application.EX01" />
-        <item itemvalue="Application.EX02" />
-        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.EX21" />
+        <item itemvalue="Application.EX19" />
+        <item itemvalue="Application.EX16" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +178,7 @@
       <workItem from="1688862946811" duration="1847000" />
       <workItem from="1688864817147" duration="13618000" />
       <workItem from="1689378901467" duration="18313000" />
-      <workItem from="1689465529232" duration="3256000" />
+      <workItem from="1689465529232" duration="17518000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -303,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689466337395</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="package change">
+      <option name="closed" value="true" />
+      <created>1689468920158</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689468920158</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +274,7 @@
     <MESSAGE value="2023/07/15" />
     <MESSAGE value="2023/07/16(1)" />
     <MESSAGE value="2023/07/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/07/16" />
+    <MESSAGE value="package change" />
+    <option name="LAST_COMMIT_MESSAGE" value="package change" />
   </component>
 </project>
