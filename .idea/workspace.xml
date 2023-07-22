@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023-07-16">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13_오후_10_51,_업데이트_전에_커밋되지_않은_변경_내용_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-07-15__8_42__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-07-15_오전_8_42_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/EX06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/DAY05/Q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,9 @@
         <option name="url" value="https://github.com/kimrasng/untitled.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/academy/DAY05/Q1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,13 +79,13 @@
       <recent name="DAY02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX22">
-    <configuration name="EX16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX16" />
+  <component name="RunManager" selected="Application.EX05">
+    <configuration name="EX01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY05.EX01" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="PATTERN" value="academy.DAY05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX19" />
+    <configuration name="EX02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY05.EX02" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="PATTERN" value="academy.DAY05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX21" />
+    <configuration name="EX03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY05.EX03" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="PATTERN" value="academy.DAY05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EX22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.EX22" />
+    <configuration name="EX04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY05.EX04" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="PATTERN" value="academy.DAY05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.DAY04.Q2" />
+    <configuration name="EX05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.DAY05.EX05" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.DAY04.*" />
+          <option name="PATTERN" value="academy.DAY05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EX22" />
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.EX21" />
-        <item itemvalue="Application.EX19" />
-        <item itemvalue="Application.EX16" />
+        <item itemvalue="Application.EX05" />
+        <item itemvalue="Application.EX04" />
+        <item itemvalue="Application.EX03" />
+        <item itemvalue="Application.EX02" />
+        <item itemvalue="Application.EX01" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +168,7 @@
       <workItem from="1688864817147" duration="13618000" />
       <workItem from="1689378901467" duration="18313000" />
       <workItem from="1689465529232" duration="18186000" />
-      <workItem from="1689993688317" duration="602000" />
+      <workItem from="1689993688317" duration="7978000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -252,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689483563124</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1689994325654</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689994325655</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +282,7 @@
     <MESSAGE value="2023/07/16" />
     <MESSAGE value="package change" />
     <MESSAGE value="2023-07-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-07-16" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
