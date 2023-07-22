@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="package change">
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/EX22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY04/Q2.java" afterDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023-07-16">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13__10_51_________Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2023-07-13_오후_10_51,_업데이트_전에_커밋되지_않은_변경_내용_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-07-15__8_42__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-07-15_오전_8_42_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY04/EX03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY04/EX03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY04/EX05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY04/EX05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +161,8 @@
       <workItem from="1688862946811" duration="1847000" />
       <workItem from="1688864817147" duration="13618000" />
       <workItem from="1689378901467" duration="18313000" />
-      <workItem from="1689465529232" duration="17518000" />
+      <workItem from="1689465529232" duration="18186000" />
+      <workItem from="1689993688317" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -260,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689468920158</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2023-07-16">
+      <option name="closed" value="true" />
+      <created>1689483563124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689483563124</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +267,7 @@
     <MESSAGE value="2023/07/16(1)" />
     <MESSAGE value="2023/07/16" />
     <MESSAGE value="package change" />
-    <option name="LAST_COMMIT_MESSAGE" value="package change" />
+    <MESSAGE value="2023-07-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-07-16" />
   </component>
 </project>
