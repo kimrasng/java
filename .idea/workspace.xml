@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023-07-30">
-      <change afterPath="$PROJECT_DIR$/src/academy/DAY08/EX25.java" afterDir="false" />
+    <list default="true" id="958caf4c-7ed3-4b8a-8848-6cdb6002d18e" name="Changes" comment="2023-08-06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/DAY08/EX24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/DAY08/EX24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/io/EX10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/practice/EX01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/practice/EX02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy2/JAVA_IO/practice/EX03.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +63,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java_kimransg/untitled/src/academy/DAY08&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/larang/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java_kimransg\untitled\src\academy\DAY08" />
@@ -165,6 +176,7 @@
       <workItem from="1690087486591" duration="1397000" />
       <workItem from="1690589210818" duration="17252000" />
       <workItem from="1690675094540" duration="18354000" />
+      <workItem from="1691279879920" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="wq">
       <option name="closed" value="true" />
@@ -302,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690693839726</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023-08-06">
+      <option name="closed" value="true" />
+      <created>1691280187666</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691280187666</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +343,7 @@
     <MESSAGE value="2023-07-23" />
     <MESSAGE value="2023-07-29" />
     <MESSAGE value="2023-07-30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-07-30" />
+    <MESSAGE value="2023-08-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-08-06" />
   </component>
 </project>
